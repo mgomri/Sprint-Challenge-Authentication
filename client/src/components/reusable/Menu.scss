@@ -1,0 +1,27 @@
+
+    .link {
+        
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        
+      }
+
+    .link:hover{
+        color:#f1f1f1;
+    }
+
+    .menu {
+        width:30%;
+        margin:auto;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        position: absolute;
+        top:2rem;
+        left:12rem;
+          
+    }
+    
+    
+  
